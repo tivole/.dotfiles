@@ -1,0 +1,5 @@
+inoremap jk <Esc>
+
+" Paste in visual mode without copying
+xnoremap p pgvy
+xnoremap p pgvy
